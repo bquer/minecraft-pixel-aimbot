@@ -8,4 +8,4 @@ Undedectable minecraft pixel aimbot with gui
 - AimBot & Hack GUI ( Used Tkinter )
 - Key bind ( 4 aimbot on/off)
 # !! Important !!
-You need to open hitboxes with CTRL+B
+You need to open hitboxes with F3+B / if u using laptop Fn+F3+B
